@@ -1,0 +1,1 @@
+docker run --name galaxy-thanh -d -p 8080:8080 thanhleviet/galaxy-docker
